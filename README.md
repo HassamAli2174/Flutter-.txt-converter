@@ -1,8 +1,14 @@
 # texatube
 
-A new Flutter project.
+A Windows desktop application using Flutter.
+An app that simplifies handling YouTube video metadata.
+The App explains about reading and writing data, about making custom widgets and services provided through proper folder structure.
 
 ## Getting Started
+Few Packages are to be implemented in pubspec.yaml 
+intl: ^0.19.0
+file_picker: ^8.0.0+1
+
 
 This project is a starting point for a Flutter application.
 
